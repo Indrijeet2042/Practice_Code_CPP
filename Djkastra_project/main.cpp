@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+
 using namespace std ;
 
 int cost[100][100] , n  ;

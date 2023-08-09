@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  PrintMatrix.cpp
-//
-//  Created by Anurag kumar on 22/05/23.
-//
-
 #include <iostream>
 
 using namespace std;
